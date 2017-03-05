@@ -10,10 +10,6 @@ repositorios, incluir los archivos solicitados
 
 ### Solución a las preguntas
 
-
-
-<img src="http://reggaetoncolombia.net/wp-content/uploads/2016/01/Natalia.jpg">
-
-
+<img src="https://github.com/dgutierrez1/so-exam1/blob/master/codigo_estudiante/cmd%20reto%201.PNG"> 
 ### Referencias
 - Páginas web donde encontro la información
