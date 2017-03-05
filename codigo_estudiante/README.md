@@ -28,7 +28,7 @@ Reto 5<br>  Imprimir las ultimas 5 lineas de un archivo<br>
 
 ####PUNTO 4 - Hacer script con 2 ips que descargue de un libro de https://www.gutenberg.org/  de ambas ips del directorio /tmp
 
-Script
+Script<br> 
 <img src="https://github.com/dgutierrez1/so-exam1/blob/master/codigo_estudiante/remote-books%20file.PNG">
 
 Correr el script<br> 
@@ -73,8 +73,8 @@ ifconfig dentro del contenedor<br>
 <img src="https://github.com/dgutierrez1/so-exam1/blob/master/codigo_estudiante/ifconfig%20container.PNG">
 
 
-### Referencias
-- Páginas web donde encontro la información
+### Referencias<br> 
+- Páginas web donde encontro la información<br> 
 http://stackoverflow.com/questions/3886295/how-do-i-list-one-filename-per-output-line-in-linux <br> 
 https://kb.iu.edu/d/acrj <br> 
 http://stackoverflow.com/questions/14300794/how-do-i-download-a-file-from-the-internet-to-my-linux-server-with-bash <br> 
